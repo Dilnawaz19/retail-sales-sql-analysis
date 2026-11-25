@@ -1,6 +1,3 @@
-Copy the entire block below and paste it directly into your `README.md` file on GitHub—every query is already wrapped in ````sql` blocks so GitHub will automatically give each one dark syntax highlighting and a copy button:
-
-```markdown
 # Retail Sales Analysis SQL Project
 
 ## Project Overview
