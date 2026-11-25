@@ -231,6 +231,3 @@ GROUP BY shift_status;
 2. Create a PostgreSQL database and run the `CREATE TABLE` script.
 3. Import your `retail_sales` CSV dataset into the table.
 4. Execute the cleaning, EDA, and business analysis queries in **pgAdmin** or **psql**.
-````[cite: 11, 12, 13, 14]
-
-```
